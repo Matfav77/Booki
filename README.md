@@ -1,6 +1,6 @@
 # Booki
 
-Project 3 in OpenClassrooms's Web Dev Path.
+Project 2 in OpenClassrooms's Web Dev Path.
 
 This is a one-pager, focused solely on HTML and CSS, with responsive requirements. Specifications were provided, alongside a model.
 
